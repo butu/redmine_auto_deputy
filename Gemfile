@@ -21,7 +21,6 @@ end
 
 group :test do
   gem "simplecov", "~> 0.14.1", require: true
-  gem 'rspec-rails'
   gem 'database_cleaner'
   gem 'timecop'
 end
